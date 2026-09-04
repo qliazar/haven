@@ -1,5 +1,6 @@
-# Зависимости для приложения «Умный сортировщик файлов» (PyQt6 версия)
-PyQt6>=6.5.0
+# --------------------------------------------------
+# ✿ HAVEN // Dependencies & Package Requirements
+# --------------------------------------------------
 
-# Если вы используете версию на CustomTkinter, раскомментируйте строку ниже:
-# customtkinter>=5.2.0
+# Core GUI Framework (PyQt6 windowing & custom rendering)
+PyQt6>=6.5.0
